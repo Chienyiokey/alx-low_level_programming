@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * maint - prints the sizeof data
+ * main - prints the sizeof data
  *
- * return: always 0 success
+ * Return: always 0 success
  */
 int main(void)
 {
